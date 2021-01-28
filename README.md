@@ -6,7 +6,7 @@ Functionality I'd like to impliment:
 
 1) DogWalkerUser Class which will allow for users to be dog-walkers. A user would be able to establish an account as a dog-walker, which would instantiate an instance of a dog-walker-user. Being able create new dog-walkers will also have the added benifit of allowing the user instance to view the dog-walkers. More so, the user instance could possibly search for dog-walkers by any given attribute (such as location). Additionally, one problem my app is currently facing is that without a default dog-walker seeded, it would be impossible for a user to make an appointment instance, since there is no function to create an instance of a dog-walker (yet).
 
-2) Dog Class
+2) Dog Class f
 
 
 
